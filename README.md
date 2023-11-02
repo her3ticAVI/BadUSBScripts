@@ -13,3 +13,10 @@ A compilation of BadUSB Scripts
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Author      |
 | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :-----------| :-----------|
 | [VoiceLogger](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/VoiceLogger)                | Activates your target's microphone, converts their speech to text, and exfils it to Discord.      |✅           | Jakoby      |
+
+## Liscence
+
+![License](https://img.shields.io/github/license/her3ticAVI/MERlin?style=for-the-badge)
+
+## Creator
+Ben Bowman | her3ticAVI
