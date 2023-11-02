@@ -11,7 +11,7 @@ A compilation of BadUSB Scripts and Payloads collected from other projects custo
 
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Author      |
 | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :-----------| :-----------|
-| [Evil Goose]([https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/VoiceLogger](https://github.com/her3ticAVI/BadUSBScripts/tree/main/scripts/EvilGoose))                | Pays a Goose to hack      |✅           | Jakoby      |
+| [Evil Goose]([https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/VoiceLogger](https://github.com/her3ticAVI/BadUSBScripts/tree/main/scripts/EvilGoose))                | Pays a Goose to hack      |✅           | Jakoby & her3ticAVI     |
 
 ## Liscence
 
