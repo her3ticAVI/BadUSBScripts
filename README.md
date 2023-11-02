@@ -4,10 +4,10 @@
   <br>
 </h1>
 
-### Overview
+## Overview
 A compilation of BadUSB Scripts and Payloads collected from other projects customized to the way I prefer it.
 
-### Payloads and Scripts
+## Payloads and Scripts
 
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Author      |
 | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :-----------| :-----------|
