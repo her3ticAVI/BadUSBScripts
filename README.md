@@ -11,7 +11,7 @@ A compilation of BadUSB Scripts and Payloads collected from other projects custo
 
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Author      |
 | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :-----------| :-----------|
-| [VoiceLogger](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/VoiceLogger)                | Activates your target's microphone, converts their speech to text, and exfils it to Discord.      |✅           | Jakoby      |
+| [Evil Goose]([https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/VoiceLogger](https://github.com/her3ticAVI/BadUSBScripts/tree/main/scripts/EvilGoose))                | Pays a Goose to hack      |✅           | Jakoby      |
 
 ## Liscence
 
