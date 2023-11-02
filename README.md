@@ -5,10 +5,9 @@
 </h1>
 
 ### Overview
-A compilation of BadUSB Scripts
+A compilation of BadUSB Scripts and Payloads collected from other projects customized to the way I prefer it.
 
 ### Payloads and Scripts
-
 
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Author      |
 | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :-----------| :-----------|
