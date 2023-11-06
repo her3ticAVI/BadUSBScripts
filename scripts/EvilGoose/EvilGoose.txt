@@ -1,6 +1,6 @@
-REM     Title: Hacker Goose
+REM     Title: Evil Goose
 
-REM     Author: I am Jakoby
+REM     Author: I am Jakoby revised by her3ticAVI
 
 REM     Description: A payload that hires a goose to hack your target in real time
 
