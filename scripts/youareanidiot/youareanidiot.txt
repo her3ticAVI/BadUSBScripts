@@ -1,0 +1,7 @@
+REM Author: her3ticAVI
+REM You are an idiot!
+GUI r
+DELAY 200
+STRING https://youareanidiot.cc
+DELAY 500
+ENTER
