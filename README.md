@@ -12,7 +12,7 @@ A compilation of BadUSB Scripts and Payloads collected from other projects custo
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Author      |
 | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :-----------| :-----------|
 | [Evil Goose](https://github.com/her3ticAVI/BadUSBScripts/tree/main/scripts/EvilGoose)              | Pays a Goose to hack      |✅           | Jakoby & her3ticAVI     |
-| [You are an idiot!](https://github.com/her3ticAVI/BadUSBScripts/blob/main/scripts/youareanidiot/youareanidiot.txt)              | Classic      |✅           | her3ticAVI     |
+| [You are an idiot!](https://github.com/her3ticAVI/BadUSBScripts/blob/main/scripts/youareanidiot/youareanidiot.txt)              | Classic Website Virus     |✅           | her3ticAVI     |
 
 ## Liscence
 
